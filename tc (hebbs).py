@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as nm
-data=pd.read_csv('tc.csv')
+data=pd.read_csv('tc (hebbs).csv')
 w0=nm.zeros(10,dtype=int) #FOR CREATING ZERO ARRAY
 size=data.shape[0]
 t1=nm.empty(0,dtype=int)
