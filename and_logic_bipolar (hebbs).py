@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as nm
-data=pd.read_csv('and_logic_bipolar.csv')
+data=pd.read_csv('and_logic_bipolar (hebbs) data_set.csv')
 #v=(data['x1'][0],data['x1'][0])
 # print(v)
 
