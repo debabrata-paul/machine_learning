@@ -1,6 +1,6 @@
 import pandas as pd
 import math
-data=pd.read_csv('data2.csv')
+data=pd.read_csv('logistic_regression_data_set.csv')
 # print(data)
 
 size=data.shape[0]
