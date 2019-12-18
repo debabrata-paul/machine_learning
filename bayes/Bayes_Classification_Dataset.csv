@@ -1,0 +1,15 @@
+Sl. No.,Age,Income,Student,Credit,Buy (Class)
+1,<30,High,No,Fair,0
+2,<30,High,No,Excellent,0
+3,31-40,High,No,Fair,1
+4,>40,Medium,No,Fair,1
+5,>40,Low,Yes,Fair,1
+6,>40,Low,Yes,Excellent,0
+7,31-40,Low,Yes,Excellent,1
+8,<30,Medium,No,Fair,0
+9,<30,Low,Yes,Fair,1
+10,>40,Medium,Yes,Fair,1
+11,<30,Medium,Yes,Excellent,1
+12,31-40,Medium,No,Excellent,1
+13,31-40,High,Yes,Fair,1
+14,>40,Medium,No,Excellent,0
